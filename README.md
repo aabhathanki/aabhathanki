@@ -1,44 +1,38 @@
-# Hi there, I'm Aabha Thanki! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=32&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=AI%2FML+Developer+🧠;Exploring+LLMs%2C+Vision+%26+GenAI+🚀;IT+Student+%40+GEC+Gandhinagar+🎓;Building+Intelligent+AI+Agents+🤖" alt="Typing SVG" />
+  <h1>👋 Hi there, I'm Aabha Thanki!</h1>
+  
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;LLMs+%26+AI+Agents+Developer;Exploring+Vision+%26+GenAI" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://linkedin.com/in/aabhathanki" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:aabhathanki1511@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://medium.com/@aabhathanki1511" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="https://github.com/aabhathanki" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/normal-badge/?username=aabhathanki&style=flat-square&color=00F2FE&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
 </div>
-
-<p align="center">
-  <a href="https://linkedin.com/in/aabhathanki">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:aabhathanki1511@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/aabhathanki">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/normal-badge/?username=aabhathanki&style=flat-square&color=00F2FE&label=PROFILE+VIEWS+👀" alt="visitor counter" />
-</p>
 
 ---
 
 ## 💫 About Me
 
-I am an **IT Student and AI/ML Developer** passionate about building modular, production-ready AI applications. I specialize in developing conversational agents, automating workflows using multi-agent systems, and implementing Retrieval-Augmented Generation (RAG) pipelines.
+I am an **AI/ML Developer** passionate about building modular, production-ready AI applications. I specialize in developing conversational agents, automating workflows using multi-agent systems, and implementing Retrieval-Augmented Generation (RAG) pipelines.
 
 *   💻 **Currently Building:** Workflows leveraging **LangChain**, **LangGraph**, and **n8n** for orchestrating complex agentic behaviors.
 *   🔍 **Focus Areas:** Generative AI, Large Language Models (LLMs), Computer Vision, and Semantic Search.
 *   ✍️ **Interests:** Tech Blogging, Public Speaking, Data Analysis, and Prompt Engineering.
-
----
-
-## 🎓 Education
-
-*   **B.E. in Information Technology**  
-    *Government Engineering College Gandhinagar* | *Jul 2024 – Present*
-*   **Diploma in Information Technology**  
-    *Government Polytechnic Porbandar* | *Aug 2021 – May 2024*  
-    *Grade: **9.4 CGPA***
 
 ---
 
@@ -107,6 +101,17 @@ I am an **IT Student and AI/ML Developer** passionate about building modular, pr
     *   Pulls new pre-prints daily from the ArXiv API based on specific machine learning keywords.
     *   Evaluates and ranks over 50+ papers per execution using customized prompt criteria.
     *   Delivers a beautifully formatted HTML newsletter containing top 5 summaries straight to email inbox.
+
+---
+
+## ✍️ Latest Medium Articles
+
+I write about Artificial Intelligence, Machine Learning, and Natural Language Processing on Medium. Check out my latest articles:
+
+*   📖 **[From Zero to Voice AI: Building a Health Assistant in Python](https://medium.com/@aabhathanki1511/from-zero-to-voice-ai-building-a-health-assistant-in-python-3c7af1cfc404)**  
+    *A step-by-step developer guide on using LiveKit, Groq, and Deepgram to build a real-time conversational voice agent.*
+*   📖 **[From Text to Talking AI: Understanding NLP & Chatbots](https://medium.com/@aabhathanki1511)**  
+    *An exploration of NLP fundamentals and the paradigm shift from text-only chatbots to talking AI systems.*
 
 ---
 
