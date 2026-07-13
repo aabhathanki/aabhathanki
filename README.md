@@ -1,24 +1,28 @@
+```markdown
 <div align="center">
 
 # 👋 Hi, I'm Aabha Thanki
 
-### AI/ML Engineer • Generative AI • LLMs • Multi-Agent Systems
+### Building AI products with LLMs, Voice AI, Computer Vision & Multi-Agent Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;LLM+%26+Generative+AI+Developer;Building+AI+Agents+with+LangGraph;FastAPI+%7C+RAG+%7C+Computer+Vision;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Developer;Generative+AI+%7C+LLMs+%7C+RAG+%7C+Agents;Building+Production-Ready+AI+Applications;FastAPI+%7C+Python+%7C+LangGraph;Always+Learning.+Always+Building.🚀" />
 
 <p>
-  <a href="https://linkedin.com/in/aabhathanki">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aabhathanki1511@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@aabhathanki1511">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://github.com/aabhathanki">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://linkedin.com/in/aabhathanki">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aabhathanki1511@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@aabhathanki1511">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aabhathanki">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=aabhathanki&label=Profile%20Views&color=0e75b6&style=flat"/>
@@ -27,176 +31,154 @@
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-💡 Passionate **AI/ML Engineer** focused on building production-ready AI applications.
+I'm a Computer Engineering student passionate about designing and building intelligent AI systems that solve real-world problems.
 
-I enjoy developing:
+My interests include:
 
-- 🤖 Multi-Agent AI Systems
-- 🧠 Large Language Model Applications
+- 🤖 AI Agents & Multi-Agent Systems
+- 🧠 Large Language Models (LLMs)
+- 🎙️ Voice AI
 - 🔍 Retrieval-Augmented Generation (RAG)
-- 👁️ Computer Vision Applications
-- ⚡ FastAPI Backends
-- 📊 Machine Learning Solutions
+- 👁️ Computer Vision
+- ⚡ AI Backend Engineering
+- 📚 Applied Machine Learning
 
-### 🌱 Currently Learning
-
-- Advanced LangGraph Workflows
-- AI Agents
-- MCP (Model Context Protocol)
-- Agentic RAG
-- Production LLM Deployment
-
-### 🎯 Current Focus
-
-- Building AI Agents
-- Full Stack AI Applications
-- Open Source Contributions
-- AI Workflow Automation using n8n
+I enjoy turning research ideas into production-ready applications while continuously exploring the latest developments in AI.
 
 ---
 
-# 🚀 Featured Projects
+# 🚧 Currently Building
+
+- 🎙️ Real-Time Voice AI Assistant
+- 🕵️ Multi-Agent Undercover Game
+- 🌐 Universal Web Assistant (Chrome Extension)
+- 📚 AI Research Automation
+- 🤖 Open Source AI Projects
+
+---
+
+# ⭐ Featured Projects
 
 ## 🕵️ Undercover Agent
 
-**Multi-Agent Social Deduction Game powered by LLMs**
+A multiplayer social deduction game where autonomous AI agents reason, debate, bluff, and make decisions using LLMs.
 
-### Features
+**Highlights**
 
-- AI-powered game master
-- Multi-agent reasoning
-- Dynamic role assignment
+- Multi-Agent Architecture
+- Intelligent Role Reasoning
 - FastAPI Backend
 - React + Vite Frontend
-- Modular Architecture
+- Dockerized Deployment
 
-**Tech Stack**
+**Tech**
 
-`Python`
-`FastAPI`
-`React`
-`Vite`
-`LLM`
-`OpenRouter`
-`Docker`
+`Python` `FastAPI` `React` `LangGraph` `OpenRouter` `Docker`
+
+---
+
+## 🎙️ Voice AI Assistant *(In Progress)*
+
+A real-time conversational AI assistant supporting natural speech interactions.
+
+**Highlights**
+
+- Speech-to-Text
+- LLM Reasoning
+- Text-to-Speech
+- Streaming Conversations
+- Modular AI Pipeline
+
+**Tech**
+
+`Python` `FastAPI` `LiveKit` `Deepgram` `Groq` `LangGraph`
+
+---
+
+
+## 🩺 MediBot
+
+A healthcare assistant powered by Retrieval-Augmented Generation for medical document search and conversational AI.
+
+**Highlights**
+
+- Medical Question Answering
+- Document Retrieval
+- OCR Integration
+- AI Chatbot
+
+**Tech**
+
+`FastAPI` `LangChain` `FAISS` `Hugging Face`
 
 ---
 
 ## 🤖 Reddit AI Agent
 
-An intelligent Reddit automation agent built with LangGraph.
+An intelligent Reddit automation system built using multi-agent workflows.
 
-### Highlights
+**Highlights**
 
-- Multi-Agent Workflow
-- Automated Reddit Posting
+- AI Content Generation
 - Community Discovery
-- AI Generated Content
-- Modular Architecture
+- Workflow Automation
+- Modular Design
 
 **Tech**
 
-Python • LangGraph • LangChain • Reddit API
+`Python` `LangGraph` `LangChain` `Reddit API`
 
 ---
 
-## 🩺 MediBot
+## 🛒 AI Product Comparison Agent
 
-Healthcare conversational assistant powered by RAG.
+Compare products using live web search and LLM reasoning.
 
-### Features
+**Highlights**
 
-- Medical Question Answering
-- RAG Pipeline
-- Document Search
-- LLM Responses
-- FastAPI Backend
-
-**Tech**
-
-Python • LangChain • FAISS • HuggingFace • FastAPI
-
----
-
-## 🔍 AI Product Comparison Agent
-
-Live product comparison using LLM reasoning.
-
-### Features
-
-- Real-time Web Search
-- Product Comparison
-- Markdown Reports
-- Intelligent Summaries
-
-**Tech**
-
-Python • LangChain • ChatGroq • Tavily API
-
----
-
-## 📚 AI Research Paper Agent
-
-Daily AI paper discovery and summarization.
-
-### Features
-
-- Arxiv Integration
-- Automatic Ranking
+- Real-Time Search
+- Intelligent Comparisons
 - AI Summaries
-- Email Newsletter
+- Markdown Reports
 
 **Tech**
 
-n8n • LLM • Arxiv API
+`LangChain` `Groq` `Tavily API`
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-## Languages
+### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,sql"/>
-
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,javascript,typescript,html,css,sql"/>
 </p>
 
-## AI / ML
+### AI & Machine Learning
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-<img src="https://img.shields.io/badge/LangChain-white?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangGraph-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge"/>
-
 </p>
 
----
+![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-orange?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-blue?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 
-## Frameworks
+### Backend & DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,docker,git,github,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,mongodb,git,github,linux,vscode"/>
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -218,7 +200,7 @@ n8n • LLM • Arxiv API
 
 ---
 
-# 📊 Activity Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -228,31 +210,38 @@ n8n • LLM • Arxiv API
 
 ---
 
-# 🏆 GitHub Trophies
+# 🌱 Exploring
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aabhathanki&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
+- Voice AI
+- Agentic AI
+- Model Context Protocol (MCP)
+- AI Infrastructure
+- Distributed AI Systems
+- LLM Deployment
+- Open Source AI
 
 ---
 
 # ✍️ Latest Articles
 
-📖 **From Zero to Voice AI: Building a Health Assistant in Python**
+- **From Zero to Voice AI: Building a Health Assistant in Python**
+- **Understanding NLP, RAG & Modern AI Chatbots**
 
-> Learn how to build a real-time voice AI assistant using LiveKit, Groq, and Deepgram.
-
-📖 **From Text to Talking AI: Understanding NLP & Chatbots**
-
-> Understanding the evolution of conversational AI systems.
-
-👉 Medium: https://medium.com/@aabhathanki1511
+📖 More articles coming soon on Medium.
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Open To
+
+- AI/ML Internships
+- Generative AI Projects
+- Open Source Collaboration
+- AI Engineering Roles
+- Research Opportunities
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -278,10 +267,11 @@ n8n • LLM • Arxiv API
 
 <div align="center">
 
-## 💬 Favorite Quote
+### 💡 Philosophy
 
 > **"The best way to predict the future is to build it."**
 
-⭐ If you like my projects, consider giving them a star!
+⭐ Thanks for visiting my profile! If you enjoy my work, consider starring a repository.
 
 </div>
+```
